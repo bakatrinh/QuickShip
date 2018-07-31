@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">QuickShip</string>
+    <string name="app_name_confirmed_btn">OK</string>
+
+
+    <string name="splash_screen_connect_btn">Start Game</string>
+    <string name="splash_screen_player_name_input_box_hint">player name</string>
+    <string name="splash_screen_bluetooth_btn">Enable Bluetooth</string>
+    <string name="splash_screen_bluetooth_alert_message">You must enable Bluetooth to play the game.</string>
+    <string name="splash_screen_player_name_error_message">Please enter a player name</string>
+    <string name="splash_screen_no_bluetooth_error_message_title">Unsupported Game</string>
+    <string name="splash_screen_no_bluetooth_error_message">Device does NOT support Bluetooth</string>
+
+    <string name="choose_mode_rotate_btn">Rotate</string>
+    <string name="choose_mode_place_ship_btn">Place</string>
+    <string name="choose_mode_done_btn">Done</string>
+    <string name="choose_mode_grid_title">Place your ships</string>
+    <string name="choose_mode_choose_ship_title">Choose Ship</string>
+    <string name="choose_mode_send_chat_message">Send</string>
+    <string name="choose_mode_chat_message_input_box_hint">message</string>
+    <string name="choose_mode_chat_message_default_message">Welcome to QuickShip, Commander!</string>
+    <string name="choose_mode_chat_game_started_message">The game has started!</string>
+    <string name="choose_mode_chat_player_ready_message">Ships placed. Waiting for opponent to finish ship placements.</string>
+    <string name="choose_mode_chat_opponent_ready_message">Your opponent has finished placing ships.</string>
+
+    <string name="play_mode_switch_mode_btn">Switch Board</string>
+    <string name="play_mode_fire_btn">Fire!</string>
+    <string name="play_mode_grid_player_title">Your Board</string>
+    <string name="play_mode_grid_opponent_title">Enemy Board</string>
+    <string name="play_mode_player_grid_btn">Your Board</string>
+    <string name="play_mode_opponent_grid_btn">Enemy Board</string>
+    <string name="play_mode_options_btn">Options</string>
+    <string name="play_mode_new_turn_msg1">New Round!</string>
+    <string name="play_mode_game_won">You Won!</string>
+    <string name="play_mode_game_lost">You Lost!</string>
+    <string name="play_mode_game_draw">Draw Game!</string>
+    <string name="play_mode_game_won_chat">You Won!</string>
+    <string name="play_mode_game_lost_chat">You Lost!</string>
+    <string name="play_mode_game_draw_chat">Game ended in a draw!</string>
+    <string name="play_mode_turn_chat">Turn:\u0020</string>
+    <string name="play_mode_divider_chat">-------------------------</string>
+    <string name="play_mode_opponent_hit_chat">Your opponent hit your ship!</string>
+    <string name="play_mode_opponent_miss_chat">Your opponent missed!</string>
+    <string name="play_mode_player_hit_chat">You hit a ship!</string>
+    <string name="play_mode_player_miss_chat">You missed!</string>
+    <string name="play_mode_break_tags_chat">\u003cBR\u003e</string>
+    <string name="play_mode_waiting_opponent_status">Waiting on opponent...</string>
+    <string name="play_mode_waiting_player_status">Your opponent is done...</string>
+    <string name="play_mode_opponent_left_chat">Opponent has left the game.</string>
+    <string name="play_mode_opponent_disconnect_message_title">Player Has Disconnected</string>
+    <string name="play_mode_opponent_disconnect_message">Returning to main screen.</string>
+
+    <string name="game_over_play_again_btn">Play Again</string>
+
+    <string name="hit_text">Hit!</string>
+    <string name="miss_text">Miss!</string>
+
+    <string name="options_title">Options</string>
+    <string name="options_surrender_btn">Surrender</string>
+    <string name="options_quit_btn">Quit</string>
+    <string name="options_enable_animation_text">Enable Emoji Animations</string>
+
+    <string name="communication_blueooth_attempt">Attempting to enable Bluetooth...</string>
+</resources>
